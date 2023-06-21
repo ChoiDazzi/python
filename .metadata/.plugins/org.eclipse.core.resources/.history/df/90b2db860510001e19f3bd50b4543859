@@ -1,0 +1,5 @@
+from _ast import If
+a = True
+
+if a:
+    print("참")

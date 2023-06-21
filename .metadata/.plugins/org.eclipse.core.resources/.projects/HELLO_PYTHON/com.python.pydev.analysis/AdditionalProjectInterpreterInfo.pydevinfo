@@ -1,0 +1,63 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\workspace_pthon\.metadata\.plugins\org.eclipse.core.resources\.projects\HELLO_PYTHON\com.python.pydev.analysis\v2_indexcache
+DAY01.hello|1687330961897222000|C:\workspace_pthon\HELLO_PYTHON\DAY01\hello.py
+DAY01.if01|1687332862792072700|C:\workspace_pthon\HELLO_PYTHON\DAY01\if01.py
+DAY01.mytest03|1687336602440145100|C:\workspace_pthon\HELLO_PYTHON\DAY01\mytest03.py
+DAY01.mytest04|1687336865599316900|C:\workspace_pthon\HELLO_PYTHON\DAY01\mytest04.py
+DAY01.mytest01|1687335641431544300|C:\workspace_pthon\HELLO_PYTHON\DAY01\mytest01.py
+DAY01.mytest02|1687336249464327700|C:\workspace_pthon\HELLO_PYTHON\DAY01\mytest02.py
+DAY01.myarr01|1687334528143682400|C:\workspace_pthon\HELLO_PYTHON\DAY01\myarr01.py
+DAY01.my_print|1687332445663730400|C:\workspace_pthon\HELLO_PYTHON\DAY01\my_print.py
+DAY01.for01|1687335200930408300|C:\workspace_pthon\HELLO_PYTHON\DAY01\for01.py
+DAY01.var01|1687331785625406900|C:\workspace_pthon\HELLO_PYTHON\DAY01\var01.py
+DAY01.arr02|1687334939491189500|C:\workspace_pthon\HELLO_PYTHON\DAY01\arr02.py
+DAY01.__init__|1687336016203814200|C:\workspace_pthon\HELLO_PYTHON\DAY01|^
+DAY01.var03|1687332270600191800|C:\workspace_pthon\HELLO_PYTHON\DAY01\var03.py
+DAY01.if02|1687333003335259200|C:\workspace_pthon\HELLO_PYTHON\DAY01\if02.py
+DAY01.var02|1687332163567475600|C:\workspace_pthon\HELLO_PYTHON\DAY01\var02.py
+DAY01.if03|1687333206763244200|C:\workspace_pthon\HELLO_PYTHON\DAY01\if03.py
+DAY01.my_input|1687335705298070100|C:\workspace_pthon\HELLO_PYTHON\DAY01\my_input.py
+-- END DISKCACHE
+-- START DICTIONARY
+28
+6=DAY01.if01
+17=C:\workspace_pthon\HELLO_PYTHON\DAY01\var03.py
+20=DAY01.mytest03
+5=C:\workspace_pthon\HELLO_PYTHON\DAY01\if01.py
+10=DAY01.mytest04
+13=C:\workspace_pthon\HELLO_PYTHON\DAY01\if03.py
+19=C:\workspace_pthon\HELLO_PYTHON\DAY01\mytest03.py
+24=DAY01.mytest01
+12=DAY01.mytest02
+23=C:\workspace_pthon\HELLO_PYTHON\DAY01\mytest01.py
+26=DAY01.myarr01
+7=C:\workspace_pthon\HELLO_PYTHON\DAY01\var01.py
+22=DAY01.for01
+8=DAY01.var01
+27=C:\workspace_pthon\HELLO_PYTHON\DAY01\arr02.py
+25=C:\workspace_pthon\HELLO_PYTHON\DAY01\myarr01.py
+4=DAY01.if02
+18=DAY01.var03
+2=DAY01.var02
+14=DAY01.if03
+15=C:\workspace_pthon\HELLO_PYTHON\DAY01\my_input.py
+21=C:\workspace_pthon\HELLO_PYTHON\DAY01\for01.py
+9=C:\workspace_pthon\HELLO_PYTHON\DAY01\mytest04.py
+11=C:\workspace_pthon\HELLO_PYTHON\DAY01\mytest02.py
+3=C:\workspace_pthon\HELLO_PYTHON\DAY01\if02.py
+1=C:\workspace_pthon\HELLO_PYTHON\DAY01\var02.py
+28=DAY01.arr02
+16=DAY01.my_input
+-- END DICTIONARY
+-- START TREE 1
+5
+a|10|a!1^1#1*19@a!3^1#1*35@a!5^2#1*51@a!7^1#1*67@a!9^6#1*83@a!11^5#1*99@a!13^1#1*115@a!15^1#1*131@a!17^1#1*147@a!19^4#1*163@
+arr|5|arr!21^3#1*179@arr!23^3#1*195@arr!25^1#1*211@arr!27^2#1*227@arr!9^10#1*83@
+b|5|b!1^2#1*19@b!11^6#1*99@b!7^2#1*67@b!9^7#1*83@b!17^2#1*147@
+c|2|c!9^8#1*83@c!11^7#1*99@
+sum|2|sum!9^11#1*83@sum!23^5#1*195@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE
