@@ -7,11 +7,11 @@ a = input("첫수를 입력하시오:")
 b = input("끝수를 입력하시오:")
 c = input("배수를 입력하시오:")
 
-arr = range(a,b+1)
+arr = range(int(a),int(b)+1)
 sum = 0
 for i in arr:
-    if i%5==0:
+    if i%int(c)==0:
         sum += i
 
-print(str(sum))
+print(sum)
     
