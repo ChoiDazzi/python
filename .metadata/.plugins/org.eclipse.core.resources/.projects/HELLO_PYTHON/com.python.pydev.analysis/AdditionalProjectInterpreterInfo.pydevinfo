@@ -8,11 +8,12 @@ DAY01.if01|1687340671813930804|/Users/ChoiSeoYeon/workspace-python/HELLO_PYTHON/
 day03.myfun06|1687496828393950644|/Users/ChoiSeoYeon/workspace-python/HELLO_PYTHON/day03/myfun06.py
 DAY01.mytest03|1687340671814790423|/Users/ChoiSeoYeon/workspace-python/HELLO_PYTHON/DAY01/mytest03.py
 DAY01.mytest04|1687360781151826132|/Users/ChoiSeoYeon/workspace-python/HELLO_PYTHON/DAY01/mytest04.py
-day03.__init__|1687422792219296891|/Users/ChoiSeoYeon/workspace-python/HELLO_PYTHON/day03|^
+day03.__init__|1687500296660434979|/Users/ChoiSeoYeon/workspace-python/HELLO_PYTHON/day03|^
 DAY01.mytest01|1687340671814573030|/Users/ChoiSeoYeon/workspace-python/HELLO_PYTHON/DAY01/mytest01.py
 DAY01.mytest02|1687410073798540368|/Users/ChoiSeoYeon/workspace-python/HELLO_PYTHON/DAY01/mytest02.py
 DAY01.myarr01|1687340671814472551|/Users/ChoiSeoYeon/workspace-python/HELLO_PYTHON/DAY01/myarr01.py
-DAY05.ooptest01|1687507223245836863|/Users/ChoiSeoYeon/workspace-python/HELLO_PYTHON/DAY05/ooptest01.py
+DAY05.ooptest01|1687507542344834818|/Users/ChoiSeoYeon/workspace-python/HELLO_PYTHON/DAY05/ooptest01.py
+DAY04.__init__|1687503454116374785|/Users/ChoiSeoYeon/workspace-python/HELLO_PYTHON/DAY04|^
 day03.myfun01|1687422083003324448|/Users/ChoiSeoYeon/workspace-python/HELLO_PYTHON/day03/myfun01.py
 DAY02.my_random2|1687411229648045990|/Users/ChoiSeoYeon/workspace-python/HELLO_PYTHON/DAY02/my_random2.py
 day03.myfun03|1687422786071250735|/Users/ChoiSeoYeon/workspace-python/HELLO_PYTHON/day03/myfun03.py
@@ -29,7 +30,7 @@ DAY01.var03|1687340671815204436|/Users/ChoiSeoYeon/workspace-python/HELLO_PYTHON
 DAY01.if03|1687340671814136665|/Users/ChoiSeoYeon/workspace-python/HELLO_PYTHON/DAY01/if03.py
 DAY01.var02|1687340671815106028|/Users/ChoiSeoYeon/workspace-python/HELLO_PYTHON/DAY01/var02.py
 DAY02.my_random|1687411306344082505|/Users/ChoiSeoYeon/workspace-python/HELLO_PYTHON/DAY02/my_random.py
-DAY02.__init__|1687418896007113301|/Users/ChoiSeoYeon/workspace-python/HELLO_PYTHON/DAY02|^
+DAY02.__init__|1687418896007113301|/Users/ChoiSeoYeon/workspace-python/HELLO_PYTHON/DAY02|^|0
 DAY05.__init__|1687505658370600027|/Users/ChoiSeoYeon/workspace-python/HELLO_PYTHON/DAY05/__init__.py
 DAY02.mytest09|1687417691295172717|/Users/ChoiSeoYeon/workspace-python/HELLO_PYTHON/DAY02/mytest09.py
 DAY02.mytest08|1687415489148641267|/Users/ChoiSeoYeon/workspace-python/HELLO_PYTHON/DAY02/mytest08.py
@@ -44,11 +45,11 @@ DAY01.my_input|1687340671814251937|/Users/ChoiSeoYeon/workspace-python/HELLO_PYT
 -- END DISKCACHE
 -- START DICTIONARY
 85
-42=day03.myfun05
+44=day03.myfun05
 62=day03.myfun04
 31=/Users/ChoiSeoYeon/workspace-python/HELLO_PYTHON/DAY02/mytest06.py
 16=DAY01.if01
-44=day03.myfun06
+42=day03.myfun06
 36=DAY01.mytest03
 72=Musk
 6=DAY01.mytest04
@@ -76,7 +77,7 @@ DAY01.my_input|1687340671814251937|/Users/ChoiSeoYeon/workspace-python/HELLO_PYT
 34=DAY01.var03
 2=DAY01.var02
 28=DAY01.if03
-76=Musk.__init__
+77=Musk.__init__
 1=/Users/ChoiSeoYeon/workspace-python/HELLO_PYTHON/DAY01/var02.py
 64=DAY02.my_random
 74=Human
@@ -92,7 +93,7 @@ DAY01.my_input|1687340671814251937|/Users/ChoiSeoYeon/workspace-python/HELLO_PYT
 83=Car
 69=Animal
 45=/Users/ChoiSeoYeon/workspace-python/HELLO_PYTHON/day03/myfun01.py
-41=/Users/ChoiSeoYeon/workspace-python/HELLO_PYTHON/day03/myfun05.py
+43=/Users/ChoiSeoYeon/workspace-python/HELLO_PYTHON/day03/myfun05.py
 84=Vehicle.__init__
 30=DAY01.my_input
 19=/Users/ChoiSeoYeon/workspace-python/HELLO_PYTHON/DAY02/mytest08.py
@@ -108,8 +109,8 @@ DAY01.my_input|1687340671814251937|/Users/ChoiSeoYeon/workspace-python/HELLO_PYT
 80=Animal.die
 38=day03.myoop02
 67=/Users/ChoiSeoYeon/workspace-python/HELLO_PYTHON/day03/myfun02.py
-77=LeeJY.__init__
-43=/Users/ChoiSeoYeon/workspace-python/HELLO_PYTHON/day03/myfun06.py
+76=LeeJY.__init__
+41=/Users/ChoiSeoYeon/workspace-python/HELLO_PYTHON/day03/myfun06.py
 51=/Users/ChoiSeoYeon/workspace-python/HELLO_PYTHON/DAY01/for01.py
 79=Animal.__init__
 17=/Users/ChoiSeoYeon/workspace-python/HELLO_PYTHON/DAY02/mytest09.py
@@ -131,7 +132,7 @@ DAY01.my_input|1687340671814251937|/Users/ChoiSeoYeon/workspace-python/HELLO_PYT
 33=/Users/ChoiSeoYeon/workspace-python/HELLO_PYTHON/DAY01/var03.py
 -- END DICTIONARY
 -- START TREE 1
-33
+34
 a|20|a!1^1#1*19@a!3^1#1*35@a!5^6#1*51@a!7^7#1*67@a!9^7#1*83@a!11^1#1*99@a!13^14#5*115@a!15^2#1*131@a!17^15#5*147@a!19^4#1*163@a!21^5#1*179@a!23^7#1*195@a!25^24#5*211@a!27^1#1*227@a!29^1#1*243@a!31^8#5*259@a!33^1#1*275@a!35^4#1*291@a!37^2#1*307@a!39^4#1*323@
 aa|0|
 add|3|add_min_mul_div!41^1#5*338@add_min_mul_div!43^1#5*354@add!45^1#5*370@
@@ -145,7 +146,8 @@ car|1|Car!57^7#7*465@
 com|3|com!59^9#1*483@com!7^11#5*67@com!23^11#5*195@
 die|0|
 div|2|divide!45^10#5*370@div!45^16#1*371@
-e|1|e!55^32#5*451@
+e|0|
+eb|1|eb!55^27#5*451@
 eun|1|Eunbi!55^20#7*449@
 get|1|getRandomHoll!59^2#5*482@
 h|0|
@@ -161,7 +163,7 @@ rnd|4|rnd!63^4#1*515@rnd!23^8#1*195@rnd!7^8#1*67@rnd!65^3#1*531@
 rps|0|
 sho|1|showDan!67^1#5*546@
 stu|0|
-sum|4|sum!5^11#1*51@sum!53^5#1*435@sum!43^4#1*355@sum!45^13#1*371@
+sum|4|sum!5^11#1*51@sum!53^5#1*435@sum!41^4#1*339@sum!45^13#1*371@
 tem|0|
 v|0|
 veh|1|Vehicle!57^1#7*465@
@@ -172,7 +174,7 @@ __d|1|__del__!69&25^9#9*210@
 __i|7|__init__!70&55^2#9*450@__init__!71&55^8#9*450@__init__!72&55^14#9*450@__init__!73&55^21#9*450@__init__!69&25^2#9*210@__init__!74&25^16#9*210@__init__!75&57^2#9*466@
 __s|1|__str__!69&25^12#9*210@
 aut|0|
-cnt|2|cnt_Sat!76&55^15#9*451@cnt_company!77&55^3#9*451@
+cnt|2|cnt_company!76&55^3#9*451@cnt_Sat!77&55^15#9*451@
 com|1|community_skill!78&25^19#9*211@
 cou|0|
 die|1|die!69&25^6#9*210@
@@ -181,7 +183,7 @@ fla|2|flag_sound!79&25^4#9*211@flag_sound!80&25^7#9*211@
 fle|1|flex!75&57^4#9*466@
 hai|2|hair_color!81&55^9#9*451@hair_color!82&55^11#9*451@
 hit|2|hit!83&57^8#9*466@hit!70&55^4#9*450@
-inf|1|info!73&55^26#9*450@
+inf|0|
 lau|1|launch!72&55^16#9*450@
 sho|0|
 stu|1|study!74&25^20#9*210@
