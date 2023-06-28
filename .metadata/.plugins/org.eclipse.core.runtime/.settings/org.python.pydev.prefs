@@ -1,6 +1,6 @@
 CHECK_PREFERRED_PYDEV_SETTINGS=false
 COMMENT_COLOR=225,116,96
-COMPLETIONS_PRIORITY_LRU=from sqlalchemy.sql.expression import false|from _ast import If|from Cython.Includes.cpython import int|from anaconda_project.internal.conda_api import remove|from statsmodels.sandbox.distributions.quantize import arr1a|from prompt_toolkit import input|from DAY02.mytest07 import res|from random import random|from dask.tests.test_cache import flag|from day03.myoop01 import Animal|from sympy.physics import pring|from sympy.printing import str|from Cython.Compiler.Naming import self_cname
+COMPLETIONS_PRIORITY_LRU=from sqlalchemy.sql.expression import false|from Cython.Includes.cpython import int|from anaconda_project.internal.conda_api import remove|from DAY02.mytest07 import res|from dask.tests.test_cache import flag|from day03.myoop01 import Animal|from sympy.physics import pring|from sympy.printing import str|from Cython.Compiler.Naming import self_cname|import math|from _ast import If|from skimage.morphology.selem import ball|from prompt_toolkit import input|from conda.common.url import join|from statsmodels.sandbox.distributions.quantize import arr1a|from random import random
 CONDA_PATH=/Users/ChoiSeoYeon/opt/anaconda3/bin/conda
 FORMATTER_STYLE=PYDEVF
 FUNC_NAME_COLOR=65,127,45
